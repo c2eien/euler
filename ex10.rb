@@ -8,4 +8,5 @@ multiple
 lines 
 \t now will the tab work?
 \t* and the bullets
+\t* bullets
 HereWeGo
